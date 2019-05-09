@@ -1,0 +1,3 @@
+我是t目录下的文件
+ssh
+我叫sshcode.txt
